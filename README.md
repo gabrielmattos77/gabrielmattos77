@@ -33,11 +33,6 @@ O projeto reúne uma plataforma web, conteúdos didáticos e materiais organizad
 - 📱 Interface pensada para diferentes dispositivos
 - 📞 Área de contato e suporte
 
-> Este projeto representa minha aplicação prática de desenvolvimento web em um projeto real.
-
----
----
-
 ## 📚 Atualmente estudando
 
 - 🌐 Desenvolvimento Web
