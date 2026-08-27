@@ -36,24 +36,6 @@ O projeto reúne uma plataforma web, conteúdos didáticos e materiais organizad
 > Este projeto representa minha aplicação prática de desenvolvimento web em um projeto real.
 
 ---
-
-## 💻 Tecnologias
-
-### Desenvolvimento Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Banco de Dados
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ---
 
 ## 📚 Atualmente estudando
@@ -78,8 +60,6 @@ Meu objetivo é continuar evoluindo como desenvolvedor, construir projetos cada 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | 🎸 **Código das Cordas** | Plataforma educacional para ensino de violão e teoria musical | HTML, CSS, JavaScript |
-| 🌐 **Portfólio Pessoal** | Meu portfólio profissional e apresentação dos meus projetos | HTML, CSS, JavaScript |
-| 🗄️ **Projetos SQL** | Estudos e projetos relacionados a banco de dados | SQL |
 
 ---
 
