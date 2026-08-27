@@ -1,77 +1,93 @@
-# 👋 Olá, eu sou Gabriel Mattos!
+# 👋 Olá, eu sou Gabriel Mattos
 
-💻 **Desenvolvedor em formação** | 🎸 **Criador do Código das Cordas** | 📚 **Educação e Tecnologia**
+### 🎓 Gestão de TI · 💻 Desenvolvedor Web em formação · 🎸 Música & Tecnologia
 
-Sou apaixonado por tecnologia, desenvolvimento web e criação de projetos que possam transformar ideias em experiências digitais.
+Sou estudante de Gestão de TI e desenvolvedor web em formação, interessado em transformar ideias em projetos digitais funcionais, organizados e acessíveis.
 
-Atualmente estou desenvolvendo meus conhecimentos em **HTML, CSS, JavaScript, Git, GitHub, SQL e desenvolvimento web**, enquanto construo projetos próprios para colocar esses conhecimentos em prática.
+Também tenho uma trajetória na música e atualmente desenvolvo projetos que conectam **tecnologia, educação e música**.
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projeto principal
 
 ### 🎸 Código das Cordas
 
-O **Código das Cordas** é um projeto educacional voltado ao ensino de violão e teoria musical.
+**Código das Cordas** é uma plataforma educacional voltada ao ensino de violão e teoria musical.
 
-O projeto reúne uma plataforma web, conteúdos didáticos e materiais organizados para proporcionar uma experiência de aprendizagem simples, prática e estruturada.
+O projeto foi desenvolvido como uma aplicação prática dos meus conhecimentos em desenvolvimento web, organização de conteúdo e experiência do usuário.
 
-**Tecnologias utilizadas:**
+**Tecnologias:**
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub`
 
 **Principais recursos:**
 
-- 🌐 Página de apresentação do curso
-- 📚 Conteúdo organizado por módulos
-- 🎵 Materiais de estudo
-- 📄 Acesso a aulas e PDFs
-- 📱 Interface pensada para diferentes dispositivos
-- 📞 Área de contato e suporte
+* 📚 Conteúdo organizado por módulos
+* 🎸 Aulas e materiais de estudo
+* 🖥️ Interface responsiva
+* 🔒 Sistema de conteúdo bloqueado
+* 💬 Integração com WhatsApp
+* 📄 Materiais em PDF
+* 🎨 Identidade visual própria
 
-## 📚 Atualmente estudando
-
-- 🌐 Desenvolvimento Web
-- ⚡ JavaScript
-- 🗄️ SQL e Banco de Dados
-- 🐙 Git e GitHub
-- 🧩 Lógica de Programação
-- 💻 Desenvolvimento de projetos práticos
+> Um projeto real criado para transformar uma ideia em uma experiência digital funcional.
 
 ---
 
-## 🎯 Objetivos
+## 🛠️ Tecnologias e ferramentas
 
-Meu objetivo é continuar evoluindo como desenvolvedor, construir projetos cada vez mais completos e utilizar a tecnologia para transformar ideias em soluções reais.
+### Desenvolvimento Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Versionamento e desenvolvimento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+### Banco de Dados
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 📚 Atualmente estudando
+
+* 🌐 Desenvolvimento Web
+* ⚡ JavaScript
+* 🗄️ SQL e Banco de Dados
+* 🐙 Git e GitHub
+* 🧩 Lógica de Programação
+* 🏗️ Estrutura e organização de projetos
+* 🎨 Experiência e interface do usuário
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente em tecnologia, desenvolver projetos cada vez mais completos e construir soluções que unam **desenvolvimento, organização e criatividade**.
 
 ---
 
 ## 📂 Projetos
 
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🎸 **Código das Cordas** | Plataforma educacional para ensino de violão e teoria musical | HTML, CSS, JavaScript |
+| Projeto                                                                      | Descrição                                                     |
+| ---------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 🎸 [Código das Cordas](https://github.com/gabrielmattos77/codigo-das-cordas) | Plataforma educacional para ensino de violão e teoria musical |
+
+> Novos projetos serão adicionados conforme minha evolução em desenvolvimento e Gestão de TI.
 
 ---
 
-## 📊 GitHub
+## 📫 Onde me encontrar
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmattos77&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmattos77&layout=compact&theme=dark&hide_border=true)
-
----
-
-## 📫 Contato
-
-Se quiser conhecer meus projetos ou entrar em contato, fique à vontade para visitar meu GitHub.
-
-**GitHub:** [github.com/gabrielmattos77](https://github.com/gabrielmattos77)
+* 💻 [GitHub](https://github.com/gabrielmattos77)
+* 📸 [Instagram](https://www.instagram.com/)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+### ⭐ Obrigado por visitar meu perfil!
+
+Estou construindo meu conhecimento através de projetos práticos e documentando minha evolução ao longo do caminho.
